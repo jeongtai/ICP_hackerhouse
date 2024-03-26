@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/workspaces/azle-react/target/wasm32-wasi/release/build/wasmedge_quickjs-348896a5a30b72ea/out
+cargo:rustc-link-lib=quickjs
